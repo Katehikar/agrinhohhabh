@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f8ff;
-  color: #333;
+  background-color: #060424;
+  color: #8734f3;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #4caf50;
+  background-color: #21b6b6;
   color: white;
   padding: 20px;
   text-align: center;
@@ -18,13 +18,13 @@ section {
 }
 
 h2 {
-  color: #4caf50;
+  color: #bb2b90;
 }
 
 button {
   margin: 5px;
   padding: 10px 15px;
-  background-color: #4caf50;
+  background-color: #1e58b1;
   color: white;
   border: none;
   border-radius: 8px;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #702cbd;
 }
 
 footer {
