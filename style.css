@@ -8,7 +8,7 @@ body {
 
 header {
   background-color: #21b6b6;
-  color: white;
+  color: rgb(52, 136, 192);
   padding: 20px;
   text-align: center;
 }
@@ -25,7 +25,7 @@ button {
   margin: 5px;
   padding: 10px 15px;
   background-color: #1e58b1;
-  color: white;
+  color: rgb(12, 143, 175);
   border: none;
   border-radius: 8px;
   cursor: pointer;
@@ -39,6 +39,6 @@ button:hover {
 footer {
   text-align: center;
   padding: 10px;
-  background-color: #ddd;
+  background-color: #1794a5;
   color: #555;
 }
